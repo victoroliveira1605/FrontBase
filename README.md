@@ -1,6 +1,6 @@
 # projetoFrontBase
 
-Projeto de microfrontend com estrutura similar ao front-react-ifood.
+Projeto de microfrontend
 
 ## Estrutura do Projeto
 
